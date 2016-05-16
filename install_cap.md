@@ -1,5 +1,5 @@
 # Install Capistrano as gem
-
+```
 group :development do
   gem 'capistrano', '~> 3.1'
   gem 'capistrano-rails', '~> 1.1'
@@ -12,7 +12,10 @@ group :development do
   gem 'capistrano-rails-tail-log'
   gem 'capistrano-db-tasks', require: false
 end
-
+```
 # Run bundle install
+```
 $ bundle install
+
 $ bundle exec cap install
+```
