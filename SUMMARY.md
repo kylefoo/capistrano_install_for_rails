@@ -4,5 +4,5 @@
 * [Install Cap](install_cap.md)
 * [Capfile Config](capfile_config.md)
 * [deploy.rb config](deployrb_config.md)
-* config/deploy/staging.rb config
+* [config/deploy/staging.rb config](staging_rb_config.md)
 
