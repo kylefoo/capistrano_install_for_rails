@@ -1,3 +1,5 @@
-# My Awesome Book
+# Initializing Capistrano & Elasticsearch
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book refers to https://www.phusionpassenger.com/library/deploy/nginx/automating_app_updates/ruby/#configure-passenger
+
+for installation purpose.
