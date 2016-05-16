@@ -12,3 +12,7 @@ group :development do
   gem 'capistrano-rails-tail-log'
   gem 'capistrano-db-tasks', require: false
 end
+
+# Run bundle install
+$ bundle install
+$ bundle exec cap install
