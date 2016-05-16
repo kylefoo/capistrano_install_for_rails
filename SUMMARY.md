@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Install Cap](chapter1.md)
+* [Install Cap](install_cap.md)
 * [Capfile Config](capfile_config.md)
 
